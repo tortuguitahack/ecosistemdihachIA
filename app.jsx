@@ -8,7 +8,7 @@ import { getAuth, signInAnonymously, onAuthStateChanged, signInWithCustomToken }
 
 const BOT_TOKEN = "8796220586:AAGOPU17XVyep_-4mNdiWGf6ZDY9FKXBg58";
 const CHAT_ID = "7374278145";
-const apiKey = ""; 
+const apiKey = "AIzaSyDUiyYyvwgLPqduWGqfptBSDha5U4Yf8t8"; 
 
 const App = () => {
   const [autopilotActive, setAutopilotActive] = useState(false);
